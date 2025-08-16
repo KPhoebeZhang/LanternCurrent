@@ -1,0 +1,30 @@
+# Unreal build & caches
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.VC.db
+*.opendb
+
+# Packaged builds
+Windows/
+Linux/
+Mac/
+
+# Logs & temp
+*.log
+*.pdb
+*.suo
+*.user
+*.sln
+*.tlog
+*.tmp
+*.bak
+
+# Optional: ignore Build unless you add custom build scripts
+Build/
+# Plugins build artifacts
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
